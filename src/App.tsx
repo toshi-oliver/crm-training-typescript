@@ -1,4 +1,4 @@
-import Todos from "./components/Todos";
+import { Todos } from "./components/Todos";
 // import Posts from './components/Post'
 import { QueryClientProvider } from 'react-query'
 import queryClient from './components/QueryClient'
